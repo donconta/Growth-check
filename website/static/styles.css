@@ -1,0 +1,18 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+form {
+  width: 50%; /* or any other desired width */
+  margin: 0 auto; /* centers the element horizontally */
+  text-align: center; /* centers the contents of the form horizontally */
+}
+
+h1 {
+  font-size: 2em;
+  margin-bottom: 0.67em;
+  text-align: center; /* centers the contents of the form horizontally */
+}
